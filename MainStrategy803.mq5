@@ -1177,4 +1177,4 @@ void OnChartEvent(const int id, const long &lparam, const double &dparam, const 
    }
 }
 
-//  край на файла  ///end
+//  край на файла  ///ендГРОК
